@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain_community
+langchain-google-genai
+langchain-classic
+faiss-cpu
+beautifulsoup4
+pytest
